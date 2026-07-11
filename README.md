@@ -75,6 +75,13 @@ getGlobalStats()
 Built by [@Huzaifa_0101](https://twitter.com/Huzaifa_0101)  
 Active on Base since Feb 2024 | 1900+ on-chain transactions
 
+## Use Cases
+
+- Tip your favorite Base builders
+- Support open source developers
+- Send gratitude onchain permanently
+- No middleman — direct wallet to wallet
+
 ---
 
 ## 📄 License
