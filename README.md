@@ -81,6 +81,12 @@ Active on Base since Feb 2024 | 1900+ on-chain transactions
 - Support open source developers
 - Send gratitude onchain permanently
 - No middleman — direct wallet to wallet
+- ## Why BaseTip
+
+- Instant ETH transfers on Base
+- Zero platform fees
+- Permanent onchain record
+- Support builders directly
 
 ---
 
