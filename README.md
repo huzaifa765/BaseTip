@@ -87,6 +87,13 @@ Active on Base since Feb 2024 | 1900+ on-chain transactions
 - Zero platform fees
 - Permanent onchain record
 - Support builders directly
+- ## How It Works
+
+1. Connect wallet on Base Mainnet
+2. Enter recipient wallet address
+3. Enter ETH amount
+4. Send tip onchain instantly
+5. Permanent record on BaseScan
 
 ---
 
