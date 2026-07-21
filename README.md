@@ -94,7 +94,12 @@ Active on Base since Feb 2024 | 1900+ on-chain transactions
 3. Enter ETH amount
 4. Send tip onchain instantly
 5. Permanent record on BaseScan
+## Supported Networks
 
+- Base Mainnet (primary)
+- Fast and cheap transactions
+- ETH native transfers
+- No wrapped tokens needed
 ---
 
 ## 📄 License
