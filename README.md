@@ -100,6 +100,12 @@ Active on Base since Feb 2024 | 1900+ on-chain transactions
 - Fast and cheap transactions
 - ETH native transfers
 - No wrapped tokens needed
+- ## Transaction Speed
+
+- Base Mainnet: ~2 second finality
+- Near zero gas fees
+- Instant confirmation
+- No waiting — no delays
 ---
 
 ## 📄 License
