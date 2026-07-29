@@ -106,6 +106,12 @@ Active on Base since Feb 2024 | 1900+ on-chain transactions
 - Near zero gas fees
 - Instant confirmation
 - No waiting — no delays
+- ## Future Plans
+
+- Multi-token support
+- Tip with USDC
+- Batch tipping
+- Tip history dashboard
 ---
 
 ## 📄 License
