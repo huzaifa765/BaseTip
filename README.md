@@ -112,6 +112,12 @@ Active on Base since Feb 2024 | 1900+ on-chain transactions
 - Tip with USDC
 - Batch tipping
 - Tip history dashboard
+- ## Builder Economy
+
+- Support builders directly on Base
+- No platform fees — 100% to builder
+- Instant settlement onchain
+- Permanent tip history on BaseScan
 ---
 
 ## 📄 License
