@@ -118,6 +118,12 @@ Active on Base since Feb 2024 | 1900+ on-chain transactions
 - No platform fees — 100% to builder
 - Instant settlement onchain
 - Permanent tip history on BaseScan
+- ## Tipping Etiquette
+
+- Tip for quality work
+- Tip for helpful content
+- Tip for open source contributions
+- Any amount is appreciated
 ---
 
 ## 📄 License
