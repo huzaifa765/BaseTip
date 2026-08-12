@@ -124,6 +124,12 @@ Active on Base since Feb 2024 | 1900+ on-chain transactions
 - Tip for helpful content
 - Tip for open source contributions
 - Any amount is appreciated
+- ## Integration
+
+- Works with any Base wallet
+- MetaMask compatible
+- Coinbase Wallet compatible
+- No app download required
 ---
 
 ## 📄 License
