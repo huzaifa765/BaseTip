@@ -130,6 +130,12 @@ Active on Base since Feb 2024 | 1900+ on-chain transactions
 - MetaMask compatible
 - Coinbase Wallet compatible
 - No app download required
+- ## Developer Info
+
+- Contract: Solidity 0.8.20
+- Verified on BaseScan
+- Open source MIT License
+- No upgradeable proxy
 ---
 
 ## 📄 License
